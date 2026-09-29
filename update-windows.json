@@ -1,0 +1,9 @@
+{
+  "version": "0.4.12",
+  "msixUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.4.12/Cindrel_0.4.12_x64.msix",
+  "msixSha256": "316383415a659000e2a5d1b00fc71102bd76e47e221bbb436565267d8f4b67e2",
+  "zipUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.4.12/Cindrel-portable-0.4.12.zip",
+  "zipSha256": "fd21eb24c2e28c79158b99d004419b110d910fe91457a00ebaeb67f80d39129f",
+  "notes": "Silent updates, Rounds 4 and 5 parity with Android 0.22.1.",
+  "minWindowsBuild": 19041
+}
