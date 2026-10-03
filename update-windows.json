@@ -1,9 +1,9 @@
 {
-  "version": "0.5.0",
-  "msixUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.5.0/Cindrel_0.5.0_x64.msix",
-  "msixSha256": "d5ffe5b1a9ed8c97d61f3b3ee468de16defbbb474f7d564512c2b6def8a09a42",
-  "zipUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.5.0/Cindrel-portable-0.5.0.zip",
-  "zipSha256": "b15ae43862bf1a6adb0e7d4843d59b3364619aa963d69c5fc002642ee60c4a66",
-  "notes": "Movies & Series, profiles, DVR rules, On Later and Sports, saved Multiview layouts, source failover, a mini window and more player settings.",
+  "version": "0.6.0",
+  "msixUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.6.0/Cindrel_0.6.0_x64.msix",
+  "msixSha256": "8438455a4c75ae2d994617fd2e21f3c70d6957d638ad982265eae924bc129398",
+  "zipUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.6.0/Cindrel-portable-0.6.0.zip",
+  "zipSha256": "ddeabd009b7778d54d8d4f2cb13eea07b0fe092188a5534ac5ec0446abf82a10",
+  "notes": "Round 8: open anything in VLC or mpv (Settings > Player); catch-up recovers by itself when a seek stalls; Multiview tiles switch to another source when a stream fails; the recording conflict card can record on another source; export from Home and a chapters file for ad breaks; a mini-guide key (T); Movies & Series remembers your place; the tray menu and Light-to-Dark switch follow the theme.",
   "minWindowsBuild": 19041
 }
