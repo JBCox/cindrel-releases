@@ -1,9 +1,9 @@
 {
-  "version": "0.6.0",
-  "msixUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.6.0/Cindrel_0.6.0_x64.msix",
-  "msixSha256": "8438455a4c75ae2d994617fd2e21f3c70d6957d638ad982265eae924bc129398",
-  "zipUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.6.0/Cindrel-portable-0.6.0.zip",
-  "zipSha256": "ddeabd009b7778d54d8d4f2cb13eea07b0fe092188a5534ac5ec0446abf82a10",
-  "notes": "Round 8: open anything in VLC or mpv (Settings > Player); catch-up recovers by itself when a seek stalls; Multiview tiles switch to another source when a stream fails; the recording conflict card can record on another source; export from Home and a chapters file for ad breaks; a mini-guide key (T); Movies & Series remembers your place; the tray menu and Light-to-Dark switch follow the theme.",
+  "version": "0.7.0",
+  "msixUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.7.0/Cindrel_0.7.0_x64.msix",
+  "msixSha256": "142f9440b0538c5fb128190db20a3f0f4072522eb7ce25b6bb7609d4226b8435",
+  "zipUrl": "https://github.com/JBCox/cindrel-releases/releases/download/windows-v0.7.0/Cindrel-portable-0.7.0.zip",
+  "zipSha256": "c35dd61ad238fec05d8091998105524cf1eb59bb04f95f288e4c4a108d012beb",
+  "notes": "Household sync and shared DVR; Watch Later, playback queues and personal channels; HDHomeRun, Plex and Jellyfin sources; saved clips, recording recovery, caption search, synchronized Multiview, and adaptive buffering. Back from playback returns to your previous screen and restores your place in the Guide.",
   "minWindowsBuild": 19041
 }
